@@ -33,7 +33,7 @@ LearnFlutter/
 - [x] Day 3 函数与类：命名参数、构造函数花样（命名构造/工厂/初始化列表）、mixin、extension
 - [x] Day 4 集合与函数式操作、`sealed class` + `switch` 模式匹配、records
 - [x] Day 5 异步：`Future` / `async` / `await` / `Stream`、事件循环与 Isolate（对照协程 / Swift Concurrency）
-- [ ] Day 6 复盘：Dart 小测验 + 写一个命令行小程序
+- [x] Day 6 复盘：Dart 小测验 + 写一个命令行小程序
 
 ## 第 2 周：Widget 与布局
 
