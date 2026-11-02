@@ -18,7 +18,7 @@
 ```
 LearnFlutter/
   PLAN.md          本文件，完成一天勾一天
-  notes/           每节课的笔记（README.md 是索引，weekN/dayM.md）
+  notes/           每节课的笔记（weekN/dayM.md），目录在根目录 README.md
   dart_basics/     第 1 周 Dart 练习
   playground/      第 2~3 周 Widget 练习用的 Flutter 工程
   github_client/   主线项目
