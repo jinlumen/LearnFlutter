@@ -37,7 +37,7 @@ LearnFlutter/
 
 ## 第 2 周：Widget 与布局
 
-- [ ] Day 1 一切皆 Widget：StatelessWidget、Widget 树、`build` 方法、热重载
+- [x] Day 1 一切皆 Widget：StatelessWidget、Widget 树、`build` 方法、热重载
 - [ ] Day 2 布局三件套：Row / Column / Stack，Expanded / Flexible（对照 LinearLayout / UIStackView）
 - [ ] Day 3 **约束模型**：Constraints go down, sizes go up, parent sets position（Flutter 布局最核心的一课）
 - [ ] Day 4 常用组件：Container、Padding、Text、Image、Icon、Button、Material 3 主题
